@@ -7,3 +7,10 @@ En este tutorial se aprenderá de manera rápida a utilizar funciones básicas d
 - [Open Kinect](https://github.com/OpenKinect)
 - [Processing](https://processing.org/)
 
+# Videos del tutorial
+
+- [DepthTresh y HandTraking](https://www.youtube.com/watch?v=J9lnAL7b2WY)
+- [Aplicaciones para otros SO](https://www.youtube.com/watch?v=j_SB6vxnESk&feature=youtu.be)
+
+
+
